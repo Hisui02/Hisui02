@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Álvaro </b><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
 
 ## 💫 About Me
-I am a Higher Technician in Web Application Development, with over 2 years of experience as a Full Stack Developer, seeking for internships to gain more work experience.
+I am a Higher Technician in Web Application Development with over 2 years of experience as a Full Stack Developer, seeking for internships to gain more work experience.
 <br/>
 I am highly passionate about Linux system administration so I decided to learn by myself. I have built and deployed several applications using diverse frameworks to grasp the basics of each. For me, the best way to learn is through hands-on experience and experimentation.
 
