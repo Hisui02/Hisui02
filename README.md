@@ -3,7 +3,7 @@
 ## 💫 About Me
 I am a Higher Technician in Web Application Development with over 2 years of experience as a Full Stack Developer, seeking for internships to gain more work experience.
 <br/><br/>
-I am highly passionate about Linux system administration so I decided to learn by myself. I have built and deployed several applications using diverse frameworks to grasp the basics of each. For me, the best way to learn is through hands-on experience and experimentation.
+Linux system administration has always seem interesting to me, so I decided to learn it by myself. I have built and deployed several applications using diverse frameworks to grasp the basics of each. For me, the best way to learn is through hands-on experience and experimentation.
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
