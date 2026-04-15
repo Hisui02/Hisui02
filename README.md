@@ -1,9 +1,11 @@
-<h1 align="center"><b>Hi, I'm Álvaro </b><img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
+<h1 align="center"><b>Hi, I'm Álvaro </b><img alt="Hello!" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img></h1>
 
 ## 💫 About Me
-I am a Higher Technician in Web Application Development with over 2 years of experience as a Full Stack Developer, seeking for internships to gain more work experience.
+Higher Technician in Web Application Development with 3+ years of experience as a Full Stack Developer, currently open to new opportunities where I can keep growing professionally.
 <br/><br/>
-Linux system administration has always seem interesting to me, so I decided to learn it by myself. I have built and deployed several applications using diverse frameworks to grasp the basics of each. For me, the best way to learn is through hands-on experience and experimentation.
+I've always been drawn to how systems work under the hood, which led me to dive into Linux administration on my own. I learn best by building and breaking things — so I've deployed a wide range of applications across different frameworks, not just to ship them, but to understand what makes each one tick.
+Right now I'm running a homelab on a Dell PowerEdge R630 with Proxmox, managing 20+ VMs and LXCs. It's my personal playground for experimenting with infrastructure, networking, and self-hosted services.
+Favourite OS? Linux. Distro of choice? NixOS.
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
@@ -14,6 +16,7 @@ Linux system administration has always seem interesting to me, so I decided to l
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/.NET-%23832ed3?logo=dotnet&logoColor=%23fff&labelColor=%23832ed3">
 </span>
 
 ### 💻 Frontend Development
@@ -60,6 +63,7 @@ Linux system administration has always seem interesting to me, so I decided to l
   <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?logo=debian&logoColor=white">
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
+  <img alt="Proxmox" src="https://img.shields.io/badge/PVE-%23e66e00?logo=proxmox&logoColor=%23fff&labelColor=%23e66e00"/>
 </span>
 
 ### 🗒️ IDEs/Editors
@@ -82,15 +86,16 @@ Linux system administration has always seem interesting to me, so I decided to l
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?logo=markdown&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
   <img alt="Tauri" src="https://img.shields.io/badge/tauri-%2324C8DB.svg?logo=tauri&logoColor=%23FFFFFF"/>
+  <img alt="Claude" src="https://img.shields.io/badge/Claude-%23ba694e?logo=claude&logoColor=%23fff&labelColor=%23ba694e"/>
+  <img alt="N8N" src="https://img.shields.io/badge/N8N-%23b54d66?logo=n8n&logoColor=%23fff&labelColor=%23b54d66"/>
 </span>
 
 
 ## 📊 GitHub Stats
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
-<br><br>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hisui02&show_icons=true&theme=dark&locale=en&layout=compact" alt="Hisui02" />
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
