@@ -5,7 +5,8 @@ Higher Technician in Web Application Development with 3+ years of experience as 
 <br/><br/>
 I've always been drawn to how systems work under the hood, which led me to dive into Linux administration on my own. I learn best by building and breaking things — so I've deployed a wide range of applications across different frameworks, not just to ship them, but to understand what makes each one tick.
 Right now I'm running a homelab on a Dell PowerEdge R630 with Proxmox, managing 20+ VMs and LXCs. It's my personal playground for experimenting with infrastructure, networking, and self-hosted services.
-Favourite OS? Linux. Distro of choice? NixOS.
+
+Favourite OS? Linux. Distro of choice? **NixOS**.
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
 
